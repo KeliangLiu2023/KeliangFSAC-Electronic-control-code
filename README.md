@@ -9,4 +9,4 @@
 My email address is 3594612631@qq.com.  
 The program was developed based on RapidECU-U4B. Main control chip MPC5744P. Interactive hardware platforms are: AMK controller, MAXON EPOS4 steering controller, self-developed ESC (unmanned braking), self-developed VCU (logic control, ami), INS570D (inertial navigation +rtk), upper layer industrial computer (do not need type matching, we use HP), self-developed EBS, corner encoder and so on.   
 Our high-speed tracking video:【2023 FSAC  HRT 高速循迹】 https://www.bilibili.com/video/BV1PN41137YF/?share_source=copy_web&vd_source=d1475b813d1042bf2cac3b302119b1d9   
-![HRT23D](1705745271184.jpg)
+![HRT23D]([1705745271184.jpg](https://github.com/KeliangLiu2023/KeliangFSAC-Electronic-control-code/blob/main/1705745271184.jpg)https://github.com/KeliangLiu2023/KeliangFSAC-Electronic-control-code/blob/main/1705745271184.jpg)
